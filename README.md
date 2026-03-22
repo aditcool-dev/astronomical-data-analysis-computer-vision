@@ -57,7 +57,13 @@ Detected ~402 galaxies using adaptive thresholding and contour filtering.
 
 <img src="images/galaxy_detection.png" width="600">
 
-![Moon Crater Detection](images/moon_crater.png)
+---
+
+### Moon Crater Detection
+
+Detected ~69 moon craters using Canny Edge detection and HoughCircles.
+
+<img src="images/moon_crater.png" width="600">
 
 ---
 
