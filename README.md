@@ -81,3 +81,11 @@ Other problem statements were solved collaboratively by teammates.
 ## 👨‍💻 Author
 Adit Rastogi  
 Aspiring Data Scientist | Python | Machine Learning | Computer Vision
+
+---
+
+## Key Learnings
+
+- Applied computer vision techniques on real-world astronomical data  
+- Combined image processing and time-series analysis  
+- Improved problem-solving under hackathon constraints  
