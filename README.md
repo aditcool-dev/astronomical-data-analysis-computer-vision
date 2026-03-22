@@ -53,7 +53,9 @@ jupyter notebook
 
 ## Some Outputs
 
+![Galaxy Detection](images/galaxy_detection.png)
 
+![Moon Crater Detection](images/moon_crater.png)
 
 ---
 
