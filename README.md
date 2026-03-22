@@ -51,9 +51,11 @@ jupyter notebook
 
 ---
 
-## Some Outputs
+### Galaxy Detection
 
-![Galaxy Detection](images/galaxy_detection.png)
+Detected ~402 galaxies using adaptive thresholding and contour filtering.
+
+<img src="images/galaxy_detection.png" width="600">
 
 ![Moon Crater Detection](images/moon_crater.png)
 
