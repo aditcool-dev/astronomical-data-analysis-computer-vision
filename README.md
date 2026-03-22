@@ -44,6 +44,19 @@ I independently worked on the following problems:
 
 ---
 
+## How to Run
+
+pip install -r requirements.txt
+jupyter notebook
+
+---
+
+## Some Outputs
+
+
+
+---
+
 ## 🏆 Achievement
 🥇 Secured **1st Place** in OR(BIT)² Hackathon (Space Week 2026)
 
