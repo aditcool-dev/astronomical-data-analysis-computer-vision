@@ -47,6 +47,7 @@ I independently worked on the following problems:
 ## How to Run
 
 pip install -r requirements.txt
+
 jupyter notebook
 
 ---
